@@ -1,25 +1,42 @@
-------------------------------------------------
-PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUPAMENT
--------------------------------------------------
+Hola! Sóc Paula Molist, estudiant de Desenvolupament d'Aplicacions Multiplataforma (DAM).
 
-1.  SOBRE MI
----------------
-Nom i Cognoms: Paula Molist
-Cicle: CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
-Presentació: Soc estudiant de DAM i m'interessa el món de la informàtica i el desenvolupament d'aplicacions. 
-Actualment estic aprenent diferents llenguatges de programació, bases de dades i eines de desenvolupament.
+En aquest repositori recullo alguns dels projectes, pràctiques i activitats que vaig realitzant durant els meus estudis.
 
+🚀 Sobre mi
+--------------
 
-2. HABILITATS I EINES TÈCNIQUES
---------------------------------
-- Sistemes operatius: Linux (Ubuntu/Debian), Windows
-- Control de versions: Git, GitHub
-- Línia de comandes: Terminal
-- Entorns i eines: Visual Studio Code, MySQL
-- Llenguatges: Python, Java, SQL
+🎓 Estudiant de Desenvolupament d'Aplicacions Multiplataforma
+💻 Interessada en la programació i el desenvolupament d'aplicacions
+🌱 Actualment aprenent i millorant els meus coneixements de Java, Git i GitHub
+📚 Utilitzo aquest repositori per recopilar els meus treballs i projectes
 
 
-3. BITÀCOLA DE PROJECTES I PRÀCTIQUES
---------------------------------------
-Pràctica 01: Configuració de l'entorn i repositori Git
-- Descripció: Creació del portafoli personal i configuració del control de versions amb Git.
+🛠️ Tecnologies
+----------------
+Tecnologia	        Ús
+☕ Java	        Programació
+🌐 HTML	        Desenvolupament web
+🎨 CSS	          Disseny web
+🔧 Git	        Control de versions
+🐙 GitHub	  Repositoris i projectes
+🗄️ SQL	          Bases de dades
+
+
+📂 Projectes
+
+🎬 Univers cinematogràfic
+Projecte realitzat per practicar Git, GitHub i Markdown.
+🔗 Veure projecte
+☕ Exercicis de Java
+Col·lecció d'exercicis realitzats durant l'aprenentatge de Java.
+🔗 Veure exercicis
+🎓 Formació
+
+CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
+
+Durant els estudis estic desenvolupant coneixements de programació, bases de dades, sistemes, entorns de desenvolupament i control de versions.
+
+📫 Contacte
+GitHub: @paulamolist
+
+⭐ Aquest portafolis s'anirà actualitzant amb nous projectes i aprenentatges durant el curs.
